@@ -1,11 +1,11 @@
 # Demo-App
-# Pre-work - *Name of App Here*
+# Pre-work - *Tips*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tips** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Daniel Ajagbusi**
 
-Time spent: **X** hours spent in total
+Time spent: **1 and a half** hours spent in total
 
 ## User Stories
 
@@ -35,10 +35,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+- N/a
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Daniel Ajagbusi]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
