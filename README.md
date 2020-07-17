@@ -2,9 +2,9 @@
 # *Tips*
 
 **Tips** is a tip calculator application for iOS.
-**Daniel Ajagbusi**
 
-The following **required** functionality is complete:
+
+## Features
 - User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 ## Video Walkthrough 
